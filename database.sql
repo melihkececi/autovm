@@ -444,7 +444,7 @@ CREATE TABLE `user_password` (
 --
 
 INSERT INTO `user_password` (`id`, `user_id`, `hash`, `salt`, `password`, `created_at`) VALUES
-(155, 1, 2, 'pzz57pthirutx7u3', '14bdd9114c31feb6364f5972321801f2f6da2454', 1601070462);
+(1, 1, 2, 'hgjfht76utjgih98', '582a578f064c371a50b0b8eca503a0faf8ba7471', 1579163518);
 
 -- --------------------------------------------------------
 
